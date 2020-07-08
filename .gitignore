@@ -1,0 +1,6 @@
+/CMakeLists.txt
+/cmake/
+/cmake-build-debug/
+/.idea/$CACHE_FILE$
+*.iml
+*.xml
